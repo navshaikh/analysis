@@ -2,7 +2,7 @@ appnope==0.1.0
 attrs==19.3.0
 backcall==0.1.0
 bleach==3.1.4
-bokeh==2.0.1
+cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
@@ -15,7 +15,9 @@ Jinja2==2.11.1
 jsonschema==3.2.0
 jupyter-client==6.1.2
 jupyter-core==4.6.3
+kiwisolver==1.2.0
 MarkupSafe==1.1.1
+matplotlib==3.2.1
 mistune==0.8.4
 nbconvert==5.6.1
 nbformat==5.0.5
